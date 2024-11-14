@@ -6,7 +6,7 @@
 - 🎮 Apaixonado por tecnologia
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?kazin-dev&show_icons=true&theme=dark)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=kazin-dev&show_icons=true&theme=dark)
 
 ## 🛠️ Tecnologias & Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
