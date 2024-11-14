@@ -6,10 +6,8 @@
 - 🎮 Apaixonado por tecnologia
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=kazin-dev&show_icons=true&theme=dark)
-
-## 📊 Linguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=kazin-dev&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kazin-dev&layout=compact&theme=radical)
 
 ## 🛠️ Tecnologias & Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -30,6 +28,7 @@
 ## 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kauã-sal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kgs26121967@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://meu-portfolio-drab-kappa.vercel.app/)
 
 ---
 
