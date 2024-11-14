@@ -8,6 +8,9 @@
 ## 📊 Estatísticas do GitHub
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=kazin-dev&show_icons=true&theme=dark)
 
+## 📊 Linguagens Mais Usadas
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
+
 ## 🛠️ Tecnologias & Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
