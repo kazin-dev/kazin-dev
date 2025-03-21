@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - 🎓 Desenvolvedor Front-End
-- 🌱 Estudando Back-End e Next.js
+- 🌱 Estudando Back-End .NET
 - 🎮 Apaixonado por tecnologia
 
 ## 📊 Estatísticas do GitHub
